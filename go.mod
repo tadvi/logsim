@@ -1,1 +1,1 @@
-module github.com/tadvi/log
+module github.com/tadvi/logsim
