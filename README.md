@@ -1,2 +1,3 @@
-# log
-Structured logging for Go
+# logsim
+
+Simple Structured logging for Go. No color.
