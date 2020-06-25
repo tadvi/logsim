@@ -9,10 +9,8 @@
 
 	log.Default.Level = Debug // Switch to Debug level.
 	log.Default.Time = false // Switch off time information for systemd.
-
-	Copyright (C) 2018 Etasoft Inc.
 */
-package log
+package logsim
 
 import (
 	"fmt"
